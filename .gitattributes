@@ -1,0 +1,2 @@
+*.data-* !text !filter !merge !diff
+*.data-00000-of-00001 !text !filter !merge !diff

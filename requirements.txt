@@ -1,0 +1,11 @@
+gdown==5.2.0
+keras==3.9.2
+matplotlib==3.10.3
+numpy==2.2.6
+opencv_python==4.11.0.86
+pandas==2.2.3
+Pillow==11.2.1
+scikit_learn==1.6.1
+seaborn==0.13.2
+skimage==0.0
+tensorflow==2.19.0
