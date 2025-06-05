@@ -1,5 +1,6 @@
 from fastapi import APIRouter, HTTPException, Depends, UploadFile, File
 
+from app.constant.predict_label import get_label_with_index
 from app.model.schemas import PredictionResponse, PredictionResultItem
 from app.services.classify_service import get_classify_service
 from app.util.logger import show_log
@@ -27,8 +28,8 @@ async def classify(
         for i, res in enumerate(result):
             predict_list.append(
                 PredictionResultItem(
-                    label = i,
-                    confidence = res,
+                    label=get_label_with_index(i),
+                    confidence=res,
                 )
             )
 
