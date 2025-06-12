@@ -96,6 +96,11 @@ Proyek ini menggunakan **DagsHub** untuk manajemen eksperimen dan pelacakan mode
 * **Version Control Model**: DagsHub memungkinkan Anda untuk *versioning* model yang dilatih, sehingga Anda dapat dengan mudah kembali ke versi sebelumnya atau membandingkan kinerja model yang berbeda.
 * **Melihat Riwayat Eksperimen**: Jelajahi riwayat pelatihan model Anda melalui antarmuka DagsHub.
 
+Berikut ini adalah link untuk melihat riwayat pelatihan model
+```
+https://dagshub.com/refandasuryasaputra/CP-Laskar-AI-LAI25-RM112
+```
+
 ## Pengembangan Lanjut
 
 * Jelajahi direktori `notebooks` untuk detail lebih lanjut tentang pelatihan dan evaluasi model, serta bagaimana data diunggah ke repositori. Anda dapat melihat bagaimana keempat jenis model (CNN Mandiri, MobileNetV2, ResNet50V2, Xception) dibangun dan dilatih di sana.
