@@ -1,0 +1,5 @@
+outs:
+    - md5: 17e9d1911288b1bf6f24c96ff512f271.dir
+      size: 704446398
+      path: palm-disease-dataset
+      nfiles: 239
