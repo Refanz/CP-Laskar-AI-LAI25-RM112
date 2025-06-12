@@ -75,11 +75,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data_tf" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app/data" />
       <recent name="$PROJECT_DIR$/notebooks" />
       <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/deployment/app" />
     </key>
   </component>
   <component name="RunManager">
@@ -140,7 +140,7 @@
       <workItem from="1749367904905" duration="14511000" />
       <workItem from="1749396581875" duration="11203000" />
       <workItem from="1749660869410" duration="1718000" />
-      <workItem from="1749710967881" duration="31952000" />
+      <workItem from="1749710967881" duration="32943000" />
     </task>
     <servers />
   </component>
