@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/models" />
       <excludeFolder url="file://$MODULE_DIR$/palm-disease-dataset" />
+      <excludeFolder url="file://$MODULE_DIR$/data_tf/assets" />
     </content>
     <orderEntry type="jdk" jdkName="CP-Laskar-AI-LAI25-RM112" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
