@@ -75,6 +75,11 @@ Menggunakan Docker menyediakan lingkungan yang konsisten dan terisolasi untuk ap
 
     Aplikasi FastAPI Anda sekarang akan berjalan di dalam kontainer Docker, dan Anda dapat mengaksesnya di `http://localhost:8000/docs` atau `http://localhost:8000/redoc`.
 
+**Docker Hub**
+```
+    https://hub.docker.com/r/refanzzzz/palm-model-api
+```
+
 ## Model dan Data
 
 * **Model *Deep Learning***: Proyek ini menggunakan teknik *deep learning* untuk deteksi penyakit. Untuk pembuatan model, *library* utama yang digunakan adalah **TensorFlow** dan **Keras**.
